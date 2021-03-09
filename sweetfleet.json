@@ -1,3 +1,20 @@
+FROM iprobedroid/swgoh-arena-tracker:beta-23 as builder
+FROM mcr.microsoft.com/dotnet/runtime:5.0
+WORKDIR /app
+COPY --from=builder /app .
+ENTRYPOINT ["dotnet", "SimpleTracker.dll"]
+
+ENV DISCORD_WEB_HOOK=https://discordapp.com/...  
+ENV ARENA_TYPE=SQUAD
+ENV ALLY_CODES_URL=https://raw.github.com/... 
+ENV CUSTOM_MESSAGE_STATUS="%USER_ICON% `%PLAYER_NAME%` `is at %CURRENT_RANK%.` PO `in %TIME_TO_PO%`"
+ENV CUSTOM_MESSAGE_CLIMB="<:b_up:806635468455149568> %PLAYER_NAME% %USER_ICON% %PREVIOUS_RANK% <:r_up:816363936902545438\> %CURRENT_RANK% :clock3: %TIME_TO_PO%"
+ENV CUSTOM_MESSAGE_DROP="<:b_down:806635586513272842> %PLAYER_NAME% %USER_ICON% %CURRENT_RANK% <:l_down:816364052124139590\> %PREVIOUS_RANK%  :clock3: %TIME_TO_PO% %NAME%"
+
+
+
+**Json file:**
+
 [
   {
     "name": "AGENT KGB",
@@ -60,7 +77,7 @@
     "name": "gBookman",
     "comment": "useIcon accepts emoji or any other text",
     "allyCode": "435392866",
-    "userIcon": "",
+    "userIcon": ":flag_ar:",
     "tagIdOnDrop": ""
   },
   {
