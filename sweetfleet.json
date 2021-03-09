@@ -53,8 +53,8 @@
     "name": "Fenybenjaro",
     "comment": "useIcon accepts emoji or any other text",
     "allyCode": "737283774",
-    "userIcon": "<:enemy:626856026674823170>",
-    "tagIdOnDrop": ":flag_hu:"
+    "userIcon": ":flag_hu:",
+    "tagIdOnDrop": ""
   },
   {
     "name": "gBookman",
@@ -82,7 +82,7 @@
     "comment": "useIcon accepts emoji or any other text",
     "allyCode": "866226395",
     "userIcon": ":flag_es:",
-    "tagIdOnDrop": ":flag_es:"
+    "tagIdOnDrop": ""
   },
   {
     "name": "Jilsleed Forlhia",
