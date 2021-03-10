@@ -141,9 +141,9 @@
     "tagIdOnDrop": ""
   },
     {
-    "name": "RYNO Eckle",
+    "name": "RYNO",
     "comment": "useIcon accepts emoji or any other text",
-    "allyCode": "798162838",
+    "allyCode": "942269941",
     "userIcon": ":flag_us:",
     "tagIdOnDrop": "310990243241132033"
   },
@@ -222,12 +222,72 @@
     "name": "Måns",
     "comment": "useIcon accepts emoji or any other text",
     "allyCode": "625547655",
-    "userIcon": "<:enemy:626856026674823170>",
+    "userIcon": ":enemy:",
     "tagIdOnDrop": ""
   },{
     "name": "Brandon0716",
     "comment": "useIcon accepts emoji or any other text",
     "allyCode": "553424713",
+    "userIcon": ":white_check_mark:",
+    "tagIdOnDrop": ""
+  },{
+    "name": "poblup",
+    "comment": "useIcon accepts emoji or any other text",
+    "allyCode": "171993268",
+    "userIcon": ":white_check_mark:",
+    "tagIdOnDrop": ""
+  },{
+    "name": "Mol Eliza",
+    "comment": "useIcon accepts emoji or any other text",
+    "allyCode": "171239571",
+    "userIcon": ":white_check_mark:",
+    "tagIdOnDrop": ""
+  },{
+    "name": "Alex",
+    "comment": "useIcon accepts emoji or any other text",
+    "allyCode": "876153657",
+    "userIcon": ":white_check_mark:",
+    "tagIdOnDrop": ""
+  },{
+    "name": "Ender X Wiggin",
+    "comment": "useIcon accepts emoji or any other text",
+    "allyCode": "643659584",
+    "userIcon": ":flag_us:",
+    "tagIdOnDrop": ""
+  },{
+    "name": "San Holo",
+    "comment": "useIcon accepts emoji or any other text",
+    "allyCode": "581782623",
+    "userIcon": ":white_check_mark:",
+    "tagIdOnDrop": ""
+  },{
+    "name": "MasterSquanch",
+    "comment": "useIcon accepts emoji or any other text",
+    "allyCode": "667726226",
+    "userIcon": ":white_check_mark:",
+    "tagIdOnDrop": ""
+  },{
+    "name": "KiraV",
+    "comment": "useIcon accepts emoji or any other text",
+    "allyCode": "553745937",
+    "userIcon": ":white_check_mark:",
+    "tagIdOnDrop": ""
+  },{
+    "name": "Phchan 0457",
+    "comment": "useIcon accepts emoji or any other text",
+    "allyCode": "888958734",
+    "userIcon": ":white_check_mark:",
+    "tagIdOnDrop": ""
+  },{
+    "name": "Sarge1",
+    "comment": "useIcon accepts emoji or any other text",
+    "allyCode": "839431295",
+    "userIcon": ":white_check_mark:",
+    "tagIdOnDrop": ""
+  },{
+    "name": "Redmangc1",
+    "comment": "useIcon accepts emoji or any other text",
+    "allyCode": "631451688",
     "userIcon": ":white_check_mark:",
     "tagIdOnDrop": ""
   }
