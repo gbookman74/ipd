@@ -194,5 +194,41 @@
     "allyCode": "815461245",
     "userIcon": ":flag_gb:",
     "tagIdOnDrop": ""
+  },{
+    "name": "Cloudskipper",
+    "comment": "useIcon accepts emoji or any other text",
+    "allyCode": "842543551",
+    "userIcon": "<:enemy:626856026674823170>",
+    "tagIdOnDrop": ""
+  },{
+    "name": "DeSeRtod",
+    "comment": "useIcon accepts emoji or any other text",
+    "allyCode": "818469739",
+    "userIcon": "<:enemy:626856026674823170>",
+    "tagIdOnDrop": ""
+  },{
+    "name": "Måster Dyll Lynn",
+    "comment": "useIcon accepts emoji or any other text",
+    "allyCode": "521691527",
+    "userIcon": "<:enemy:626856026674823170>",
+    "tagIdOnDrop": ""
+  },{
+    "name": "Mr Coffee",
+    "comment": "useIcon accepts emoji or any other text",
+    "allyCode": "249779478",
+    "userIcon": "<:enemy:626856026674823170>",
+    "tagIdOnDrop": ""
+  },{
+    "name": "Måns",
+    "comment": "useIcon accepts emoji or any other text",
+    "allyCode": "625547655",
+    "userIcon": "<:enemy:626856026674823170>",
+    "tagIdOnDrop": ""
+  },{
+    "name": "Brandon0716",
+    "comment": "useIcon accepts emoji or any other text",
+    "allyCode": "553424713",
+    "userIcon": ":white_check_mark:",
+    "tagIdOnDrop": ""
   }
 ]
