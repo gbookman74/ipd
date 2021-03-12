@@ -3,7 +3,7 @@
     "name": "AGENT KGB",
     "comment": "useIcon accepts emoji or any other text",
     "allyCode": "818469739",
-    "userIcon": "<:enemy:626856026674823170>",
+    "userIcon": ":skull:",
     "tagIdOnDrop": "",
     "tagIdOnClimb": ""
   },
@@ -11,7 +11,7 @@
     "name": "Antonious Chane",
     "comment": "useIcon accepts emoji or any other text",
     "allyCode": "338589223",
-    "userIcon": "<:enemy:626856026674823170>",
+    "userIcon": ":skull:",
     "tagIdOnDrop": ""
   },
   {
@@ -31,7 +31,13 @@
   {
     "name": "Beeman",
     "comment": "useIcon accepts emoji or any other text",
-    "allyCode": " 644936964",
+    "allyCode": "644936964",
+    "userIcon": ":flag_au:",
+    "tagIdOnDrop": ""
+  },{
+    "name": "Bee Man",
+    "comment": "useIcon accepts emoji or any other text",
+    "allyCode": "968894713",
     "userIcon": ":flag_au:",
     "tagIdOnDrop": ""
   },
@@ -39,7 +45,7 @@
     "name": "Bendi",
     "comment": "useIcon accepts emoji or any other text",
     "allyCode": "941847375",
-    "userIcon": "<:enemy:626856026674823170>",
+    "userIcon": ":skull:",
     "tagIdOnDrop": ""
   },
   {
@@ -64,13 +70,6 @@
     "tagIdOnDrop": "427158112894582796" 
   },
   {
-    "name": "Get Clap",
-    "comment": "useIcon accepts emoji or any other text",
-    "allyCode": "574116427",
-    "userIcon": "<:enemy:626856026674823170>",
-    "tagIdOnDrop": ""
-  },
-  {
     "name": "HaWK",
     "comment": "useIcon accepts emoji or any other text",
     "allyCode": "146329297",
@@ -88,7 +87,7 @@
     "name": "Jilsleed Forlhia",
     "comment": "useIcon accepts emoji or any other text",
     "allyCode": "577513462",
-    "userIcon": "<:enemy:626856026674823170>",
+    "userIcon": ":skull:",
     "tagIdOnDrop": ""
   },
   {
@@ -169,7 +168,7 @@
     "name": "Soren er sej0",
     "comment": "useIcon accepts emoji or any other text",
     "allyCode": "787546196",
-    "userIcon": "<:enemy:626856026674823170>",
+    "userIcon": ":skull:",
     "tagIdOnDrop": ""
   },{
     "name": "Sregdor Naitsirk",
@@ -198,25 +197,25 @@
     "name": "Cloudskipper",
     "comment": "useIcon accepts emoji or any other text",
     "allyCode": "842543551",
-    "userIcon": "<:enemy:626856026674823170>",
+    "userIcon": ":skull:",
     "tagIdOnDrop": ""
   },{
     "name": "DeSeRtod",
     "comment": "useIcon accepts emoji or any other text",
     "allyCode": "818469739",
-    "userIcon": "<:enemy:626856026674823170>",
+    "userIcon": ":skull:",
     "tagIdOnDrop": ""
   },{
     "name": "Måster Dyll Lynn",
     "comment": "useIcon accepts emoji or any other text",
     "allyCode": "521691527",
-    "userIcon": "<:enemy:626856026674823170>",
+    "userIcon": ":skull:",
     "tagIdOnDrop": ""
   },{
     "name": "Mr Coffee",
     "comment": "useIcon accepts emoji or any other text",
     "allyCode": "249779478",
-    "userIcon": "<:enemy:626856026674823170>",
+    "userIcon": ":skull:",
     "tagIdOnDrop": ""
   },{
     "name": "Måns",
